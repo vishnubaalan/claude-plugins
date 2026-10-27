@@ -1,0 +1,12 @@
+{
+  "name": "react-fe",
+  "version": "1.0.0",
+  "description": "React frontend skill in Breezeware house style: React 19, Vite, shadcn/ui + Tailwind, Redux Toolkit, Axios with Cognito auth, Formik + Yup, feature data hooks.",
+  "author": {
+    "name": "Vishnu Baalan B",
+    "email": "vishnu@breezeware.net"
+  },
+  "repository": "https://github.com/vishnubaalan/claude-plugins",
+  "license": "MIT",
+  "keywords": ["react", "frontend", "vite", "shadcn", "tailwind", "redux", "formik", "breezeware"]
+}

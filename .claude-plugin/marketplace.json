@@ -1,0 +1,19 @@
+{
+  "name": "vishnu-plugins",
+  "owner": {
+    "name": "Vishnu Baalan B",
+    "email": "vishnu@breezeware.net"
+  },
+  "metadata": {
+    "description": "Vishnu's Claude Code plugins for Breezeware frontend work",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "react-fe",
+      "source": "./plugins/react-fe",
+      "description": "Build React screens, features, forms, services and slices the way Breezeware's web apps are built",
+      "version": "1.0.0"
+    }
+  ]
+}
